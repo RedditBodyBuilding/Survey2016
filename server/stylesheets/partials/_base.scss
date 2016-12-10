@@ -1,0 +1,28 @@
+@import "../modules/all";
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.clear {
+  clear: both;
+}
+
+.hide {
+  display: none;
+}
+
+.float {
+  float: left;
+}
+
+
